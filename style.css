@@ -1,0 +1,27 @@
+nav {
+  background-color: rgb(43, 42, 76);
+  width: 150;
+  height: 72px;
+  font-family: 'Kanit', sans-serif;
+}
+
+nav img {
+  width: 160px;
+  height: 100px;
+}
+
+.jumbotron {
+  text-align: center;
+  text-shadow: 1px;
+  font-family: 'Kanit', sans-serif;
+  color: royalblue;
+}
+
+.card-img {
+  width: auto;
+}
+
+footer {
+  background-color: rgb(43, 42, 76);
+  font-family: 'Kanit', sans-serif;
+}
